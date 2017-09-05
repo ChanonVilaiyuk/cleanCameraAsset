@@ -1,4 +1,5 @@
 # v.0.0.1 stable version 
+# add .git https://github.com/myCodeTD/cleanCameraAsset.git
 
 # shot utils 
 import os
